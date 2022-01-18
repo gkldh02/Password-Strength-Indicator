@@ -2,7 +2,7 @@
 A jQuery / Bootstrap Password Strength Indicator plugin that creates a progress bar below your password field to indicate the password strength and displays error messages to prompt user with correct password parameters/requirements.
 
 # include the jquery.passwordstrength.min.js script after jQuery.
-<script src="jquery.passwordstrength.min.js"></script>
+<script src="passwordstrength.js"></script>
 
 # sign up form like this:
 <form>
